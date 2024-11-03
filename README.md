@@ -1,2 +1,2 @@
 # JavaSynth
-A Polyphonic Synth based on JSynth. Featuring GUI
+A Polyphonic Synth based on JSynth
